@@ -1,5 +1,5 @@
 /* A simple recursive function to help me wrap my brain around recursive functions
- * it should return a+*(a-1)+*(a-2)+...(a-a) = (a+1)/2*a */
+ * it should return a+(a-1)+(a-2)+...(a-a) = (a+1)/2*a */
 
 #include <stdio.h>
 
